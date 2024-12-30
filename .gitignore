@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/__MACOSX/
+/cats_and_dogs/
+/cats_and_dogs.zip
